@@ -14,6 +14,12 @@ Features:
 -Simple to add your own 'fitting' functions if you know python and the relevant math. 
 
 
+Fitting functions included:
+-Linear, y = a1*x + a0
+-Parabolic, y = a2*x^2 + a1*x + a0
+-Cubic, y = a3*x^3 + a2*x^2 + a1*x + a0
+-Cosine, y = a0 + a1*cos(w*x) + a2*cos(w*x)
+
 
 Usage:
 -'w' key specials menu → Select function
